@@ -1,2 +1,2 @@
 # OpenLigaDB
-classes and api for synchronous requests to OpenLigaDB
+classes and api for synchronous requests to OpenLigaDB (https://www.openligadb.de/)
